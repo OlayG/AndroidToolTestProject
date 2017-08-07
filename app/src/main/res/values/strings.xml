@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AndroidToolTestProject</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Calculator Strings -->
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Zero">0</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Period">.</string>
+    <string name="Equals">=</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Multiply">x</string>
+    <string name="Divide">/</string>
+    <string name="Percent">%</string>
+    <string name="PlusMinus">+/-</string>
+    <string name="Clear">C</string>
+    <string name="Calculator">Calculator</string>
+    <string name="Emi_calculator">EMI Calculator</string>
+    <string name="pictureViewer">Picture Viewer</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
